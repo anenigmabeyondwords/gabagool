@@ -41,3 +41,7 @@ A fan project. Not affiliated with HBO, David Chase, or anyone from the show. Al
 ## License
 
 MIT
+
+## Built from the show
+
+The dialect sections of the style file (sound, grammar, words, talk, who's talking, and how engineering sounds) come from four reference files built from a full read of every episode plus word counts over the whole subtitle corpus. Those files are a lexicon, a grammar, a discourse guide and a set of character voice profiles, and they live in `skills/sopranos-voice/references/`. They are written in original words with no quoted dialogue: the only words taken from the show are single terms and expressions of three words or fewer, and every example sentence is invented. The `sopranos-voice` skill points Claude at them when it needs a particular character's voice or more vocabulary than the style file carries.
