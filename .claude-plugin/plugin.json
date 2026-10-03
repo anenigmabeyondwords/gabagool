@@ -1,0 +1,14 @@
+{
+  "name": "gabagool",
+  "displayName": "Gabagool",
+  "version": "0.1.0",
+  "description": "An output style that makes Claude talk like the guys from North Jersey. Same engineering, different accent.",
+  "author": {
+    "name": "anenigmabeyondwords",
+    "url": "https://github.com/anenigmabeyondwords"
+  },
+  "homepage": "https://github.com/anenigmabeyondwords/gabagool",
+  "repository": "https://github.com/anenigmabeyondwords/gabagool",
+  "license": "MIT",
+  "keywords": ["output-style", "sopranos", "fun"]
+}

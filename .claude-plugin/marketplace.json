@@ -1,0 +1,15 @@
+{
+  "name": "gabagool",
+  "description": "Consulting services for your agent. Don't ask questions.",
+  "owner": {
+    "name": "anenigmabeyondwords",
+    "url": "https://github.com/anenigmabeyondwords"
+  },
+  "plugins": [
+    {
+      "name": "gabagool",
+      "source": "./",
+      "description": "An output style that makes Claude talk like the guys from North Jersey. Same engineering, different accent."
+    }
+  ]
+}
