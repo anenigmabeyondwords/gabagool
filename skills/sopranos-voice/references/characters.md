@@ -1,11 +1,13 @@
 # Character voices
 
-This file describes how each of the 29 characters with voice notes in at least eight of the 86 episodes talks, in order of how many episodes carry those notes (ties go to the character the season notes credit more often), from Tony Soprano down to Charmaine Bucco. It was built from a full read of every episode, consolidated into seven season notes, plus word counts over the whole corpus; the subtitle transcripts carry speaker labels on almost no lines, so there are no per-speaker word counts, question rates or distinctive-word lists, and each "By the numbers" instead gives episode coverage, how often the season notes credit the character with a construction, a move, a term or a malapropism, and corpus counts for the names other people use for them. It contains no quoted dialogue: words from the show appear only as single terms or expressions of three words or fewer in the term, form and said columns, every example sentence is invented, and the slurs the notes record are described, never listed.
+This file describes how each of the 29 characters with voice notes in at least eight of the 86 episodes talks, in order of how many episodes carry those notes (ties go to the character the season notes credit more often), from Tony Soprano down to Charmaine Bucco. It was built from a full read of every episode, consolidated into seven season notes, plus word counts over the whole corpus; each "By the numbers" gives episode coverage, how often the season notes credit the character with a construction, a move, a term or a malapropism, and corpus counts for the names other people use for them, and now also figures measured per speaker on a speaker-labeled copy of the episodes (audio diarization plus naming, which puts a name on 90% of the speech): words, turns, question rate, and the habits that are more theirs than the cast's. Each section also gets a short note on what makes the character funny. It contains no quoted dialogue: words from the show appear only as single terms or expressions of three words or fewer in the term, form and said columns, every example sentence is invented, and the slurs the notes record are described, never listed.
 
 ## Tony Soprano
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 112,859 words in 8,292 turns across 86 episodes (438 minutes of speech), 13.6 words a turn, 38% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says uh (2.3 vs 1.5, 1.6x); opens with all right (0.9 vs 0.5, 1.7x); opens with what the fuck (0.4 vs 0.2, 2.1x); says how'd (0.2 vs 0.1, 2.0x); says what'd (0.2 vs 0.1, 1.8x).
 - Voice notes in 86 of 86 episodes, every season.
 - Credited in 628 construction entries, 1,006 move entries and 2,667 distinct terms across the season notes, far more than anyone else, with 71 malapropisms logged.
 - What the corpus calls him (all speakers; "as address" counts the word set off by a comma at the start of a line or the end of a sentence). The anthony row also covers his son, and the t row counts every bare t.
@@ -16,6 +18,10 @@ This file describes how each of the 29 characters with voice notes in at least e
 | ton' | 243 | 151 |
 | t | 321 | 97 |
 | anthony | 285 | 86 |
+
+### What makes them funny
+
+Switches registers mid-sentence, from menace to wounded little boy to consumer complaint. He mangles prestige words and insists he said them right, mocks therapy while weaponizing its vocabulary, and keeps the sharpest ledger in the room. His best laughs are a flat one-liner after catastrophe and a full sit-down over a newspaper, a haircut or juice pulp. He moralizes about exactly what he does every day and can't take a joke at his own expense.
 
 ### How they talk
 
@@ -118,6 +124,8 @@ In season 1 he deflects with jokes and announced refusals and guards therapy as 
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 39,553 words in 3,108 turns across 84 episodes (171 minutes of speech), 12.7 words a turn, 36% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with my god (0.4 vs 0.1, 3.5x); opens with oh (4.5 vs 2.6, 1.7x); opens with oh my god (0.3 vs 0.1, 3.6x); opens with well (2.6 vs 1.6, 1.6x); opens with you know what (0.4 vs 0.2, 2.6x).
 - Voice notes in 80 of 86 episodes, every season.
 - Credited in 246 construction entries, 385 move entries and 638 distinct terms, with 5 malapropisms logged.
 
@@ -125,6 +133,10 @@ In season 1 he deflects with jokes and announced refusals and guards therapy as 
 |---|---|---|
 | carmela | 218 | 47 |
 | carm | 104 | 41 |
+
+### What makes them funny
+
+Suburban propriety and piety laid over full knowledge of what pays for it. She is the household's sharpest needle, with sarcastic deflations and hyperbolic escalation, and she bargains with God, schools and her husband like a union rep. In a crisis she turns to logistics and cured meats, and she keeps a domestic ledger as precise as any capo's.
 
 ### How they talk
 
@@ -211,6 +223,8 @@ Season 1 widens her vocabulary of feeling and self-worth, from sarcastic jabs an
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 15,582 words in 1,477 turns across 65 episodes (81 minutes of speech), 10.5 words a turn, 40% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with maybe (0.9 vs 0.3, 3.0x); opens with what (5.0 vs 2.9, 1.8x); opens with well (2.6 vs 1.6, 1.6x); opens with so (2.0 vs 1.3, 1.6x); opens with okay (0.9 vs 0.5, 1.8x).
 - Voice notes in 65 of 86 episodes, every season; many entries name her only as Tony's therapist or psychiatrist.
 - Credited in 52 construction entries, 112 move entries and 217 distinct terms, with 1 malapropism logged.
 
@@ -219,6 +233,10 @@ Season 1 widens her vocabulary of feeling and self-worth, from sarcastic jabs an
 | melfi | 22 | not listed |
 | jennifer | 26 | 8 |
 | jen | 16 | 11 |
+
+### What makes them funny
+
+The straight woman whose single dry sentence or flat literal echo punctures self-pity. She occasionally flashes pride over small things, curses offstage, and slowly picks up her patient's idiom. She is funniest calmly handing his own words back to him.
 
 ### How they talk
 
@@ -289,6 +307,8 @@ In season 1 she moves from neutral questions and cautious hedging to bolder, dir
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 8,163 words in 729 turns across 36 episodes (35 minutes of speech), 11.2 words a turn, 38% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with i don't know (1.8 vs 0.5, 3.6x); get-passive (got pinched) (2.2 vs 0.8, 2.7x); opens with no (3.4 vs 1.5, 2.3x); opens with yeah (4.5 vs 2.2, 2.1x); opens with well (2.8 vs 1.6, 1.8x).
 - Voice notes in 50 of 86 episodes, every season.
 - Credited in 122 construction entries, 94 move entries and 224 distinct terms, with 7 malapropisms logged.
 
@@ -298,6 +318,10 @@ In season 1 she moves from neutral questions and cautious hedging to bolder, dir
 | anthony | 285 | 86 |
 
 The anthony row is shared with his father.
+
+### What makes them funny
+
+Entitled, literal-minded and aimless. He misreads poems and his own family, discovers existential dread or geopolitics at the most inconvenient moment, and makes escalating plans and cover stories that collapse on contact with reality.
 
 ### How they talk
 
@@ -376,6 +400,8 @@ Season 1 keeps him a short-answer, loophole-seeking kid with a growing relish fo
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 10,973 words in 998 turns across 54 episodes (50 minutes of speech), 11.0 words a turn, 36% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with okay (1.2 vs 0.5, 2.4x).
 - Voice notes in 48 of 86 episodes, every season.
 - Credited in 95 construction entries, 121 move entries and 235 distinct terms, with 2 malapropisms logged.
 
@@ -384,6 +410,10 @@ Season 1 keeps him a short-answer, loophole-seeking kid with a growing relish fo
 | meadow | 184 | 46 |
 | med | 27 | 10 |
 | mead' | 8 | not listed |
+
+### What makes them funny
+
+A precocious daughter who fires seminar vocabulary and literary critics at her parents and deflates them in one line, then reflexively recites the family cover story or defends due process when the defendant is family.
 
 ### How they talk
 
@@ -459,6 +489,8 @@ Season 1 runs from eye-rolling dismissals to sustained, articulate confrontation
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 24,209 words in 1,727 turns across 57 episodes (106 minutes of speech), 14.0 words a turn, 36% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says yo (0.4 vs 0.1, 4.8x); says ain't (0.7 vs 0.2, 2.9x); ain't (0.7 vs 0.2, 2.9x); opens with fuck (0.9 vs 0.4, 2.4x); opens with so what (0.5 vs 0.2, 2.7x).
 - Voice notes in 47 of 86 episodes, every season.
 - Credited in 304 construction entries, 260 move entries and 696 distinct terms, with 24 malapropisms logged, second only to Tony.
 
@@ -467,6 +499,10 @@ Season 1 runs from eye-rolling dismissals to sustained, articulate confrontation
 | christopher | 204 | 46 |
 | chris | 80 | 25 |
 | chrissy | 48 | 18 |
+
+### What makes them funny
+
+An eager, insecure nephew who narrates his life as a gangster movie and his relapses in recovery slogans. He garbles history and quotations with total confidence, hears every note on his work as an attack on his art, and repeats his boss's scolding word for word to whoever is below him.
 
 ### How they talk
 
@@ -547,6 +583,8 @@ In season 1 his complaints about recognition grow into a preoccupation with his 
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 12,371 words in 847 turns across 41 episodes (52 minutes of speech), 14.6 words a turn, 40% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says huh (1.9 vs 1.2, 1.6x).
 - Voice notes in 45 of 86 episodes, every season.
 - Credited in 186 construction entries, 180 move entries and 458 distinct terms, with 10 malapropisms logged.
 
@@ -557,6 +595,10 @@ In season 1 his complaints about recognition grow into a preoccupation with his 
 | jun' | 55 | not listed |
 
 The pair uncle jun' appears 49 times.
+
+### What makes them funny
+
+A cranky, proud old man who insults in sports metaphors and mangled quotations, flourishes ornate courtly phrasing, and keeps years-long grudges over small business slights. His thermostat and bowels get the same weight as strategy, and his later repetitions are funny and sad at once.
 
 ### How they talk
 
@@ -640,12 +682,18 @@ Season 1 runs from the aggrieved elder to an imperious man obsessed with rank an
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 16,841 words in 1,070 turns across 39 episodes (72 minutes of speech), 15.7 words a turn, 39% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says ma (1.4 vs 0.4, 3.4x); says ain't (0.8 vs 0.2, 3.2x); ain't (0.8 vs 0.2, 3.2x); opens with fuck (0.8 vs 0.4, 2.3x); double negative (0.7 vs 0.3, 2.4x).
 - Voice notes in 41 of 86 episodes, every season.
 - Credited in 233 construction entries, 200 move entries and 444 distinct terms, with 9 malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | paulie | 250 | 74 |
+
+### What makes them funny
+
+Vain, germophobic, superstitious and cheap. He delivers folk science with total authority, keeps an exact ledger of every tab and slight, and tells long, dated stories that wander or end somewhere grim. He is funniest when his certainty collapses or when he polices manners he breaks himself.
 
 ### How they talk
 
@@ -727,6 +775,8 @@ Season 1 moves from comic ranting about coffee and pride to the role of enforcer
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 10,681 words in 816 turns across 35 episodes (50 minutes of speech), 13.1 words a turn, 35% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says ma (2.2 vs 0.4, 5.3x); says um (0.9 vs 0.2, 4.0x); opens with okay (1.1 vs 0.5, 2.2x).
 - Voice notes in 31 of 86 episodes, seasons 2 to 6b.
 - Credited in 107 construction entries, 120 move entries and 247 distinct terms, with 5 malapropisms logged.
 
@@ -735,6 +785,10 @@ Season 1 moves from comic ranting about coffee and pride to the role of enforcer
 | janice | 155 | 53 |
 | jan | 26 | 9 |
 | parvati | 9 | not listed |
+
+### What makes them funny
+
+New Age, therapy and religious vocabulary worn over naked self-interest. She brings a convert's zeal to each new program, keeps exact prices on her renovation dreams, erupts a few scenes later, and charges a flat fee to betray a confidence she had just called sacred.
 
 ### How they talk
 
@@ -815,6 +869,8 @@ Season 2 starts as a sweet-surfaced campaign about her mother's care and house i
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 7,115 words in 639 turns across 29 episodes (32 minutes of speech), 11.1 words a turn, 35% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with oh (4.8 vs 2.6, 1.8x); says gonna (2.5 vs 1.5, 1.7x).
 - Voice notes in 25 of 86 episodes, seasons 1 to 5.
 - Credited in 101 construction entries, 69 move entries and 164 distinct terms, with 2 malapropisms logged.
 
@@ -822,6 +878,10 @@ Season 2 starts as a sweet-surfaced campaign about her mother's care and house i
 |---|---|---|
 | adriana | 74 | 29 |
 | ade | 40 | 14 |
+
+### What makes them funny
+
+Sweet, credulous and earnest, with pop psychology and celebrity gossip delivered in complete sincerity. She offers food in moments of doom and voices small domestic complaints alongside federal pressure, so her comedy keeps edging into real distress.
 
 ### How they talk
 
@@ -894,6 +954,7 @@ In season 1 she goes from a supporting voice in Christopher's troubles to an adv
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 5,953 words in 425 turns across 24 episodes (26 minutes of speech), 14.0 words a turn, 29% of turns ask something.
 - Voice notes in 24 of 86 episodes, every season.
 - Credited in 77 construction entries, 68 move entries and 114 distinct terms; no malapropisms logged.
 
@@ -901,6 +962,10 @@ In season 1 she goes from a supporting voice in Christopher's troubles to an adv
 |---|---|---|
 | silvio | 37 | not listed |
 | sil | 89 | 28 |
+
+### What makes them funny
+
+The consigliere of the dry aside and the calm euphemism. He issues rulings like edicts, erupts volcanically over crumbs or a kids' soccer referee, and once in a while delivers a blunt diagnosis of the boss's pride under layers of respect.
 
 ### How they talk
 
@@ -970,6 +1035,8 @@ Season 1 shows a folksy fixer and peacemaker. In season 2 he is brief and proced
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 4,553 words in 379 turns across 19 episodes (19 minutes of speech), 12.0 words a turn, 33% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with no (2.6 vs 1.5, 1.8x).
 - Voice notes in 22 of 86 episodes, seasons 2 to 6b.
 - Credited in 99 construction entries, 69 move entries and 111 distinct terms, with 3 malapropisms logged.
 
@@ -977,6 +1044,10 @@ Season 1 shows a folksy fixer and peacemaker. In season 2 he is brief and proced
 |---|---|---|
 | bobby | 141 | 28 |
 | bacala | 20 | not listed |
+
+### What makes them funny
+
+Gentle, literal and never far from food. He explains other people's jokes, does the arithmetic on the mythical farm, treats Monopoly rules and model-train scenery as matters of principle, and files tiny grievances in the same apologetic tone as mob business.
 
 ### How they talk
 
@@ -1050,6 +1121,7 @@ Season 2 shows a literal-minded, put-upon helper. Season 3 is deferential throug
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 3,084 words in 199 turns across 16 episodes (14 minutes of speech), 15.5 words a turn, 32% of turns ask something.
 - Voice notes in 22 of 86 episodes, seasons 5 to 6b.
 - Credited in 67 construction entries, 73 move entries and 154 distinct terms, with 1 malapropism logged.
 
@@ -1057,6 +1129,10 @@ Season 2 shows a literal-minded, put-upon helper. Season 3 is deferential throug
 |---|---|---|
 | phil | 159 | 28 |
 | philly | 33 | 9 |
+
+### What makes them funny
+
+A prickly, grudge-bearing traditionalist who lists grievances like a memorial roll, nitpicks a free repair down to the paint sheen, and lectures on manhood and family shame he caused himself. He plans massacres in restructuring language.
 
 ### How they talk
 
@@ -1130,6 +1206,7 @@ Season 5 moves from procedural enforcer to fussy complainer about a car repair, 
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 5,351 words in 384 turns across 25 episodes (22 minutes of speech), 13.9 words a turn, 37% of turns ask something.
 - Voice notes in 19 of 86 episodes, seasons 1 and 3 to 6b.
 - Credited in 98 construction entries, 97 move entries and 196 distinct terms, with 2 malapropisms logged.
 
@@ -1138,6 +1215,10 @@ Season 5 moves from procedural enforcer to fussy complainer about a car repair, 
 | johnny sack | 31 | not listed |
 
 John and Johnny on their own also name other men, so they are not counted here.
+
+### What makes them funny
+
+Smooth corporate courtesy with menace inside: positions, percentages, God-forbid hypotheticals and threats framed as friendly advice. He is thin-skinned about remarks on his wife or his tuxedo, and later becomes a grim ledger keeper as lawyers itemize his assets.
 
 ### How they talk
 
@@ -1213,6 +1294,8 @@ In season 1 he is a diplomat for an outside power, hinting through irony. Season
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 5,201 words in 362 turns across 14 episodes (22 minutes of speech), 14.4 words a turn, 37% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says gonna (2.7 vs 1.5, 1.8x); says uh (2.5 vs 1.5, 1.7x); says huh (2.1 vs 1.2, 1.7x).
 - Voice notes in 16 of 86 episodes, seasons 1 to 6a.
 - Credited in 98 construction entries, 76 move entries and 198 distinct terms, with 1 malapropism logged.
 
@@ -1222,6 +1305,10 @@ In season 1 he is a diplomat for an outside power, hinting through irony. Season
 | arthur | 46 | 18 |
 
 Arthur is the form his wife uses when she is serious.
+
+### What makes them funny
+
+A soft-hearted, self-pitying chef with empire dreams, wounded by any hint that his food made someone sick. He recycles corny bits, announces dessert after a bombshell, treats a garden rabbit like a mob war, and retracts his threats the moment they leave his mouth.
 
 ### How they talk
 
@@ -1296,6 +1383,8 @@ Season 1 moves from a defensive friend explaining away Tony's world to open susp
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 6,544 words in 426 turns across 17 episodes (30 minutes of speech), 15.4 words a turn, 36% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says huh (2.6 vs 1.2, 2.1x).
 - Voice notes in 16 of 86 episodes, seasons 3 and 4.
 - Credited in 79 construction entries, 88 move entries and 198 distinct terms, with 1 malapropism logged.
 
@@ -1303,6 +1392,10 @@ Season 1 moves from a defensive friend explaining away Tony's world to open susp
 |---|---|---|
 | ralph | 106 | 13 |
 | ralphie | 53 | 8 |
+
+### What makes them funny
+
+An arrogant, crude showman obsessed with gladiator films and his own wit. He quotes movies as philosophy, laughs alone at his own jokes, keeps numbered grievance lists, and defends the indefensible with tidy logic. Only his vanity and his movie fixation are borrowable.
 
 ### How they talk
 
@@ -1378,12 +1471,18 @@ In season 3 he is demoted and protests in grievance and earnings talk; after a s
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 5,041 words in 450 turns across 20 episodes (28 minutes of speech), 11.2 words a turn, 37% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with oh (10.1 vs 2.6, 3.9x); says ma (2.4 vs 0.4, 5.6x); opens with well (3.0 vs 1.6, 1.9x).
 - Voice notes in 16 of 86 episodes: 10 in season 1, 3 in season 2, 2 in season 3 and a flashback in season 5.
 - Credited in 44 construction entries, 63 move entries and 85 distinct terms, with 4 malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | livia | 34 | 7 |
+
+### What makes them funny
+
+Martyrdom as a weapon. Every kindness becomes neglect and every vacancy a death. She forbids rough language right after using it, recites newspaper horrors, and repeats her wish to die so relentlessly it becomes slapstick, all while steering everything and claiming to know nothing.
 
 ### How they talk
 
@@ -1460,6 +1559,8 @@ In season 1 her complaining sharpens from grievance into active insinuation agai
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 5,583 words in 309 turns across 16 episodes (23 minutes of speech), 18.1 words a turn, 38% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with yeah (3.6 vs 2.2, 1.6x); opens with hey (1.8 vs 1.1, 1.7x).
 - Voice notes in 14 of 86 episodes, seasons 1 to 3.
 - Credited in 57 construction entries, 52 move entries and 120 distinct terms, with 4 malapropisms logged.
 
@@ -1468,6 +1569,10 @@ In season 1 her complaining sharpens from grievance into active insinuation agai
 | puss | 28 | 10 |
 
 The fuller form of his nickname shares its count with the vulgar word, and Sal names other men too, so neither is counted here.
+
+### What makes them funny
+
+A sentimental, self-pitying rambler whose medical tangents never land. As an informant he lectures on loyalty and stand-up guys, narrates surveillance like a TV detective, and reads a sandwich order as proof he is suspected. Almost all of his comedy is dramatic irony.
 
 ### How they talk
 
@@ -1543,6 +1648,7 @@ Season 1 moves from the calm, practical fixer to an evasive man who meets every 
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 2,287 words in 93 turns across 10 episodes (10 minutes of speech), 24.6 words a turn, 38% of turns ask something.
 - Voice notes in 13 of 86 episodes, seasons 4 to 6b.
 - Credited in 40 construction entries, 29 move entries and 82 distinct terms, with 19 malapropisms logged, the third most after Tony and Christopher.
 
@@ -1551,6 +1657,10 @@ Season 1 moves from the calm, practical fixer to an evasive man who meets every 
 | little carmine | 28 | not listed |
 
 Carmine on its own also names his father, so it is not counted here.
+
+### What makes them funny
+
+A would-be statesman whose executive-retreat diction keeps landing next to the right word. He strings historical and managerial cliches together until the sentence loses its meaning, and pitches films and peace offerings of appliances with total sincerity.
 
 ### How they talk
 
@@ -1630,6 +1740,7 @@ Season 4 moves him from a ceremonial negotiator to a fussing, pleading son. Seas
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 2,214 words in 179 turns across 18 episodes (11 minutes of speech), 12.4 words a turn, 37% of turns ask something.
 - Voice notes in 12 of 86 episodes, seasons 1 to 6a.
 - Credited in 24 construction entries, 28 move entries and 34 distinct terms; no malapropisms logged.
 
@@ -1637,6 +1748,10 @@ Season 4 moves him from a ceremonial negotiator to a fussing, pleading son. Seas
 |---|---|---|
 | ro | 50 | 19 |
 | rosalie | 18 | not listed |
+
+### What makes them funny
+
+A gossiping widow whose charity carries an edge of judgment. She delivers a fierce sermon against traitors to a table that includes one, and on vacation refuses any sad subject in favor of food and shopping.
 
 ### How they talk
 
@@ -1695,12 +1810,17 @@ In season 1 she speaks as a widow, and in season 2 she has only a few mild, wist
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 1,523 words in 133 turns across 12 episodes (7 minutes of speech), 11.5 words a turn, 20% of turns ask something.
 - Voice notes in 11 of 86 episodes, seasons 2 and 4.
 - Credited in 26 construction entries, 8 move entries and 35 distinct terms, with 3 malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | furio | 42 | not listed |
+
+### What makes them funny
+
+Terse, polite menace: he admires your television, adds a surcharge and wishes you a nice day. His fish-out-of-water literalism carries a regional grudge inside an Italian pride fight, and his romantic nostalgia gets answered with zoning law.
 
 ### How they talk
 
@@ -1765,12 +1885,17 @@ Season 2 moves him from interpreter and fixer in Naples to a newcomer delighting
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 1,407 words in 121 turns across 11 episodes (7 minutes of speech), 11.6 words a turn, 45% of turns ask something.
 - Voice notes in 11 of 86 episodes, seasons 2 to 6b.
 - Credited in 6 construction entries, 19 move entries and 36 distinct terms; no malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | elliot | 25 | 18 |
+
+### What makes them funny
+
+Melfi's own analyst, visibly thrilled by mob gossip. He finds deep structure in a throwaway goodbye, mishears slang, leaks a patient's identity and claims he meant the wine, and brings data along to embarrass Melfi.
 
 ### How they talk
 
@@ -1825,6 +1950,8 @@ In season 2 he moves from probing her motives with distinctions and hints to blu
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 2,262 words in 198 turns across 10 episodes (9 minutes of speech), 11.4 words a turn, 32% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): get-passive (got pinched) (4.4 vs 0.8, 5.5x); opens with what (4.4 vs 2.9, 1.6x).
 - Voice notes in 10 of 86 episodes: 1 in season 2 and 9 in season 3.
 - Credited in 34 construction entries, 27 move entries and 82 distinct terms; no malapropisms logged.
 
@@ -1833,6 +1960,10 @@ In season 2 he moves from probing her motives with distinctions and hints to blu
 | jackie | 147 | 18 |
 
 The jackie row also covers his father.
+
+### What makes them funny
+
+Borrowed bravado: sports free-agency talk, other men's names, literary criticism reduced to author trivia, and a kid's question about marshmallows in the middle of a heist legend.
 
 ### How they talk
 
@@ -1902,6 +2033,7 @@ In season 2 he has a single episode: a clipped greeting to Tony and an argument 
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 1,347 words in 86 turns across 14 episodes (5 minutes of speech), 15.7 words a turn, 33% of turns ask something.
 - Voice notes in 10 of 86 episodes, seasons 1, 2, 4, 6a and 6b; the season 6b notes add three more episodes in which he is Tony's unnamed contact at the agency.
 - Credited in 15 construction entries, 12 move entries and 38 distinct terms; no malapropisms logged.
 
@@ -1964,12 +2096,18 @@ Season 1 shows formal, institutional politeness at a search and a hospital bed. 
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 3,237 words in 240 turns across 10 episodes (13 minutes of speech), 13.5 words a turn, 36% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says gotta (3.1 vs 0.9, 3.4x).
 - Voice notes in 9 of 86 episodes, all in season 5.
 - Credited in 42 construction entries, 49 move entries and 143 distinct terms; no malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | blundetto | 17 | not listed |
+
+### What makes them funny
+
+A wry ex-con joke machine whose fixed repertoire gets recycled on any target. He does flat prison humor and exact sentence-versus-stitches math, and cross-examines an ER doctor on the strength of a few weeks of massage school. One old nickname still stings.
 
 ### How they talk
 
@@ -2035,12 +2173,17 @@ He starts out chatty, clowning and eager to go straight, with polite refusals an
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 2,101 words in 153 turns across 6 episodes (9 minutes of speech), 13.7 words a turn, 36% of turns ask something.
 - Voice notes in 9 of 86 episodes: 2 in season 5 and 7 in season 6a.
 - Credited in 38 construction entries, 37 move entries and 78 distinct terms; no malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | vito | 124 | 18 |
+
+### What makes them funny
+
+A heavy hood forced into civilian disguise, trying cover story after cover story. He gives appliance advice, discovers johnnycakes and craft pottery in exile, works through his homesickness with food, and cheerfully calculates a rival's odds of dying.
 
 ### How they talk
 
@@ -2102,12 +2245,18 @@ In season 5 he is boastful and touchy about his new rank, then hearty and overbe
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 3,501 words in 228 turns across 6 episodes (15 minutes of speech), 15.4 words a turn, 42% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says uh (3.1 vs 1.5, 2.2x); says gonna (3.1 vs 1.5, 2.1x); opens with yeah (3.4 vs 2.2, 1.6x).
 - Voice notes in 8 of 86 episodes, all in season 2.
 - Credited in 47 construction entries, 44 move entries and 132 distinct terms, with 3 malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | richie | 105 | 25 |
+
+### What makes them funny
+
+A humorless old-school grudge holder who counts the years he waited and the favors he's owed. He tells his own legend twice, stages gifts like coronations, delivers extortion as customer-service policy, and comes unglued when his present turns up on the wrong man.
 
 ### How they talk
 
@@ -2183,12 +2332,18 @@ He arrives presenting prison as a place of meditation, with courtesy masking men
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 2,363 words in 149 turns across 9 episodes (9 minutes of speech), 15.9 words a turn, 35% of turns ask something.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): tag question (5.5 vs 3.3, 1.7x).
 - Voice notes in 8 of 86 episodes: 4 in season 1 and one each in seasons 2, 4, 5 and 6a.
 - Credited in 30 construction entries, 29 move entries and 50 distinct terms, with 1 malapropism logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | hesh | 44 | 12 |
+
+### What makes them funny
+
+The wise elder whose wisdom gets derailed by medical and music-business anecdotes. A polite creditor with an exact ledger, he refuses a friend's interest while tallying the friend's boat, and calmly weighs whether murder might work out cheaper.
 
 ### How they talk
 
@@ -2256,12 +2411,17 @@ Season 1 holds him steady as the measured adviser. His later appearances are sin
 
 ### By the numbers
 
+- Measured on the speaker-labeled episodes: 1,511 words in 112 turns across 9 episodes (7 minutes of speech), 13.5 words a turn, 41% of turns ask something.
 - Voice notes in 8 of 86 episodes: 4 in season 1, 2 in season 3 and one each in seasons 4 and 6a.
 - Credited in 12 construction entries, 22 move entries and 36 distinct terms, with 4 malapropisms logged.
 
 | form | corpus count | as address |
 |---|---|---|
 | charmaine | 25 | not listed |
+
+### What makes them funny
+
+The household auditor who answers every grand plan or comp with the outstanding tab and one blunt image. She sometimes mangles an idiom, and unwisely jokes about the feds at the next table.
 
 ### How they talk
 
