@@ -490,7 +490,7 @@ Season 1 runs from eye-rolling dismissals to sustained, articulate confrontation
 ### By the numbers
 
 - Measured on the speaker-labeled episodes: 24,209 words in 1,727 turns across 57 episodes (106 minutes of speech), 14.0 words a turn, 36% of turns ask something.
-- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says yo (0.4 vs 0.1, 4.8x); says ain't (0.7 vs 0.2, 2.9x); ain't (0.7 vs 0.2, 2.9x); opens with fuck (0.9 vs 0.4, 2.4x); opens with so what (0.5 vs 0.2, 2.7x).
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says yo (0.4 vs 0.1, 4.8x); says ain't (0.7 vs 0.2, 2.9x); opens with fuck (0.9 vs 0.4, 2.4x); opens with so what (0.5 vs 0.2, 2.7x); says gonna (2.4 vs 1.5, 1.6x).
 - Voice notes in 47 of 86 episodes, every season.
 - Credited in 304 construction entries, 260 move entries and 696 distinct terms, with 24 malapropisms logged, second only to Tony.
 
@@ -683,7 +683,7 @@ Season 1 runs from the aggrieved elder to an imperious man obsessed with rank an
 ### By the numbers
 
 - Measured on the speaker-labeled episodes: 16,841 words in 1,070 turns across 39 episodes (72 minutes of speech), 15.7 words a turn, 39% of turns ask something.
-- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says ma (1.4 vs 0.4, 3.4x); says ain't (0.8 vs 0.2, 3.2x); ain't (0.8 vs 0.2, 3.2x); opens with fuck (0.8 vs 0.4, 2.3x); double negative (0.7 vs 0.3, 2.4x).
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): says ma (1.4 vs 0.4, 3.4x); says ain't (0.8 vs 0.2, 3.2x); opens with fuck (0.8 vs 0.4, 2.3x); double negative (0.7 vs 0.3, 2.4x); says ah (0.7 vs 0.4, 1.8x).
 - Voice notes in 41 of 86 episodes, every season.
 - Credited in 233 construction entries, 200 move entries and 444 distinct terms, with 9 malapropisms logged.
 
@@ -1471,8 +1471,8 @@ In season 3 he is demoted and protests in grievance and earnings talk; after a s
 
 ### By the numbers
 
-- Measured on the speaker-labeled episodes: 5,041 words in 450 turns across 20 episodes (28 minutes of speech), 11.2 words a turn, 37% of turns ask something.
-- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with oh (10.1 vs 2.6, 3.9x); says ma (2.4 vs 0.4, 5.6x); opens with well (3.0 vs 1.6, 1.9x).
+- Measured on the speaker-labeled episodes: 5,041 words in 450 turns across 20 episodes (28 minutes of speech), 11.2 words a turn, 37% of turns ask something. Some lines labeled as hers are her children's, so these figures lean toward their speech.
+- More theirs than the cast's (per 1,000 words, theirs vs everyone's): opens with oh (10.1 vs 2.6, 3.9x); opens with well (3.0 vs 1.6, 1.9x).
 - Voice notes in 16 of 86 episodes: 10 in season 1, 3 in season 2, 2 in season 3 and a flashback in season 5.
 - Credited in 44 construction entries, 63 move entries and 85 distinct terms, with 4 malapropisms logged.
 

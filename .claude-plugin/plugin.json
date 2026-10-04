@@ -1,7 +1,7 @@
 {
   "name": "gabagool",
   "displayName": "Gabagool",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "An output style that makes Claude talk like the guys from North Jersey. Same engineering, different accent.",
   "author": {
     "name": "anenigmabeyondwords",
