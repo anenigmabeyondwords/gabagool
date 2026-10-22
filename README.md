@@ -6,7 +6,7 @@ An output style for Claude Code that makes Claude talk like the guys from North 
 
 ## What it sounds like
 
-Two replies from test sessions, lightly trimmed. Every line is original.
+Two replies from test sessions, cut short after their first paragraphs. The words are the model's own.
 
 > **You:** quick one: pytest flag to stop at the first failure?
 >
@@ -20,7 +20,9 @@ Two replies from test sessions, lightly trimmed. Every line is original.
 
 > **You:** My teammate thinks we should rewrite the whole thing in Go because Python is slow. Thoughts?
 >
-> **Claude:** Nah. Not for this. Rewrite it in Go and you're buying a faster car for a road with a speed limit. Your throttle sleeps 0.65 seconds per row; Python's own work per row takes microseconds, and the CRM's rate limit sets the pace. Marone, that's a lot of rewriting for a speedup nobody could measure. Your teammate has a fair point in a few situations: the team already works in Go, or you want one static binary to hand around.
+> **Claude:** Nah. Not for this. Rewrite it in Go and you're buying a faster car for a road with a speed limit.
+>
+> Where does the time go? Your throttle sleeps 0.65 seconds per row. Per 1,000 rows, that's about 11 minutes of waiting. Python's own work per row (parse the CSV line, build a dict, serialize JSON) takes microseconds to a millisecond or so. The rest is the network round trip, and the CRM's rate limit sets the pace. Go would shave a rounding error off the part that was never slow, and the 429s would show up at exactly the same row, since the limit lives on the CRM's side. Marone, that's a lot of rewriting for a speedup nobody could measure.
 
 When you're in trouble (prod down, data gone), the bits stop and you get the steps, in order.
 
@@ -33,7 +35,7 @@ In a Claude Code terminal session, macOS or Windows:
 /plugin install gabagool@gabagool
 ```
 
-Pick **Install for you**. Don't pick the project option inside a work repo: that turns the plugin on for everyone who clones it.
+Pick **Install for you (user scope)**. Not the "in this repo only" option, which stops at that repo, and not the collaborators option inside a work repo: that one turns the plugin on for everyone who clones it.
 
 For the desktop app, run these once in any terminal, then start a new session:
 
@@ -46,19 +48,19 @@ On Windows, install [Git for Windows](https://git-scm.com/downloads/win) first; 
 
 ## Turn it on
 
-The voice is off until you pick the style. In a session:
+The voice is off until you pick the style. In a session (Claude Code 2.1.269 or newer):
 
 ```
 /output-style gabagool:Gabagool
 ```
 
-In the desktop app, use the session's output style menu. To make it the default everywhere, add this to `~/.claude/settings.json`:
+In the desktop app, use the session's output style setting. To make it the default everywhere, add the `outputStyle` key to `~/.claude/settings.json` (the whole file, if you have no other settings):
 
 ```json
-"outputStyle": "gabagool:Gabagool"
+{ "outputStyle": "gabagool:Gabagool" }
 ```
 
-The name is exactly `gabagool:Gabagool`. `Gabagool` on its own gives you the default style with no error. Back to plain: `/output-style default`.
+The settings value must be exactly `gabagool:Gabagool`; any other string silently gives you the default style. The `/output-style` command ignores case and rejects a name it doesn't know. Back to plain: `/output-style default`.
 
 Once in a while a session starts out plain even with the style on, and then stays plain. Say so; the voice comes back on the next reply.
 
@@ -95,7 +97,7 @@ then start a new session or run `/reload-plugins`. Changes are listed in [CHANGE
 claude --plugin-dir /path/to/gabagool
 ```
 
-then `/output-style gabagool:Gabagool`. The voice is checked with headless test sessions before a change ships; the style file stays under 3,000 words.
+then `/output-style gabagool:Gabagool`. With `--plugin-dir`, the commands ask once per run before reading the style file, since their read grant covers the plugin cache only. The voice is checked with headless test sessions before a change ships; the style file stays under 3,000 words.
 
 ## Not affiliated
 
