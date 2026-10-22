@@ -54,13 +54,13 @@ The voice is off until you pick the style. In a session (Claude Code 2.1.269 or 
 /output-style gabagool:Gabagool
 ```
 
-In the desktop app, use the session's output style setting. To make it the default everywhere, add the `outputStyle` key to `~/.claude/settings.json` (the whole file, if you have no other settings):
+That saves the choice for the current project in its `.claude/settings.local.json`, so it stays on there in later sessions. In the desktop app, use the session's output style setting. To make it the default everywhere, add the `outputStyle` key to `~/.claude/settings.json` (the whole file, if you have no other settings):
 
 ```json
 { "outputStyle": "gabagool:Gabagool" }
 ```
 
-The settings value must be exactly `gabagool:Gabagool`; any other string silently gives you the default style. The `/output-style` command ignores case and rejects a name it doesn't know. Back to plain: `/output-style default`. That saves to the project's `.claude/settings.local.json`, which outranks the user default in that repo; delete its `outputStyle` line to get the default back there.
+The settings value must be exactly `gabagool:Gabagool`; any other string silently gives you the default style. The `/output-style` command ignores case and rejects a name it doesn't know. Back to plain: `/output-style default`, which saves the same way and outranks the user-wide setting in that project; delete the `outputStyle` line from the project's `.claude/settings.local.json` to let the user-wide setting apply there again.
 
 Once in a while a session starts out plain even with the style on, and then stays plain. Say so; the voice comes back on the next reply.
 
@@ -97,7 +97,7 @@ then start a new session or run `/reload-plugins`. Changes are listed in [CHANGE
 claude --plugin-dir /path/to/gabagool
 ```
 
-then `/output-style gabagool:Gabagool`. The commands' read grant covers `~/.claude/plugins/cache/gabagool/` only, the normal install. With `--plugin-dir`, with a plugin cache moved by `CLAUDE_CONFIG_DIR` or `CLAUDE_CODE_PLUGIN_CACHE_DIR`, or with a local-path marketplace, reading the style file prompts in an interactive session and is denied in `claude -p`, and the command then runs without the style's rules. With the style on, no read happens. The voice is checked with headless test sessions before a change ships; the style file stays under 3,000 words.
+then `/output-style gabagool:Gabagool`. The commands' read grant covers `~/.claude/plugins/cache/gabagool/`, the normal install, and reads inside the working directory never prompt, so `claude --plugin-dir .` from this checkout works as is. From anywhere else (a plugin cache moved by `CLAUDE_CONFIG_DIR` or `CLAUDE_CODE_PLUGIN_CACHE_DIR`, a local-path marketplace, a `--plugin-dir` outside the project), reading the style file prompts in an interactive session and is denied in `claude -p`, and the command then runs without the style's rules. With the style on, no read happens. The voice is checked with headless test sessions before a change ships; the style file stays under 3,000 words.
 
 ## Not affiliated
 

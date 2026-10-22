@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.3 (2026-10-22)
+
+- `/gabagool:sit-down`: a branch argument reviews the current branch's work unless the ref is strictly ahead (0.3.2 had the test backwards when the base had moved on); a ref equal to HEAD means the working tree; the path test looks in HEAD, so a staged deletion is still a path; an unknown name stops in one line; new directories are expanded only when they look like source; files of a commit or branch that isn't checked out are read with `git show <ref>:<path>`; the no-write rule names checkout, switch, stash, restore, clean, apply and worktree; the description names what it reviews.
+- README: `/output-style` saves per project either way, and what the read grant covers is stated by file location.
+
 ## 0.3.2 (2026-10-22)
 
 - `/gabagool:sit-down`: a branch argument reviews whichever side has the new commits; a commit is shown with `--first-parent`, so a merge commit has a patch; untracked files are listed one by one, new directories included; a deleted file's path still counts as a path; the no-write rule stands on its own line and names redirects, `tee` and `sed -i`.
