@@ -6,13 +6,13 @@ An output style for Claude Code that makes Claude talk like the guys from North 
 
 ## What it sounds like
 
-Two replies from test sessions, cut short after their first paragraphs. The words are the model's own.
+Two replies from test sessions, the first whole and the second cut short after its first paragraphs. The words are the model's own.
 
 > **You:** quick one: pytest flag to stop at the first failure?
 >
 > **Claude:** `-x`, same as `--exitfirst`:
 >
-> ```
+> ```bash
 > python -m pytest -x
 > ```
 >
@@ -60,14 +60,14 @@ In the desktop app, use the session's output style setting. To make it the defau
 { "outputStyle": "gabagool:Gabagool" }
 ```
 
-The settings value must be exactly `gabagool:Gabagool`; any other string silently gives you the default style. The `/output-style` command ignores case and rejects a name it doesn't know. Back to plain: `/output-style default`.
+The settings value must be exactly `gabagool:Gabagool`; any other string silently gives you the default style. The `/output-style` command ignores case and rejects a name it doesn't know. Back to plain: `/output-style default`. That saves to the project's `.claude/settings.local.json`, which outranks the user default in that repo; delete its `outputStyle` line to get the default back there.
 
 Once in a while a session starts out plain even with the style on, and then stays plain. Say so; the voice comes back on the next reply.
 
 ## Commands
 
 - `/gabagool:say [text]`: the Gabagool version of the text you paste after it, or of Claude's last reply. Works with the style off, so you can get one Gabagool version of a decision without switching.
-- `/gabagool:sit-down [path or ref]`: a review of your uncommitted changes as a sit-down. Chat only; it changes nothing.
+- `/gabagool:sit-down [path, commit, branch, range]`: a code review as a sit-down: your uncommitted changes, one path, a commit's own changes, what a branch adds, or a range. Chat only; it changes nothing.
 - `/gabagool:malapropisms on|off`: sound-alike malapropisms for the session. Off by default. Bent idioms (Pandora's lunchbox) are on either way.
 
 Each one is yours to run; Claude never invokes them on its own.
@@ -97,7 +97,7 @@ then start a new session or run `/reload-plugins`. Changes are listed in [CHANGE
 claude --plugin-dir /path/to/gabagool
 ```
 
-then `/output-style gabagool:Gabagool`. With `--plugin-dir`, the commands ask once per run before reading the style file, since their read grant covers the plugin cache only. The voice is checked with headless test sessions before a change ships; the style file stays under 3,000 words.
+then `/output-style gabagool:Gabagool`. The commands' read grant covers `~/.claude/plugins/cache/gabagool/` only, the normal install. With `--plugin-dir`, with a plugin cache moved by `CLAUDE_CONFIG_DIR` or `CLAUDE_CODE_PLUGIN_CACHE_DIR`, or with a local-path marketplace, reading the style file prompts in an interactive session and is denied in `claude -p`, and the command then runs without the style's rules. With the style on, no read happens. The voice is checked with headless test sessions before a change ships; the style file stays under 3,000 words.
 
 ## Not affiliated
 

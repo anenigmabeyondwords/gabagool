@@ -1,8 +1,13 @@
 # Changelog
 
+## 0.3.2 (2026-10-22)
+
+- `/gabagool:sit-down`: a branch argument reviews whichever side has the new commits; a commit is shown with `--first-parent`, so a merge commit has a patch; untracked files are listed one by one, new directories included; a deleted file's path still counts as a path; the no-write rule stands on its own line and names redirects, `tee` and `sed -i`.
+- README: what the commands' read grant does and does not cover; `/output-style default` saves to the project and outranks the user default there; the sit-down entry matches its arguments; the first sample is the whole reply with its fence label back.
+
 ## 0.3.1 (2026-10-21)
 
-- Commands: narrower permissions. The git grants are gone (a `git diff *` rule also approved `--output=<file>`, which writes; plain read-only git needs no grant), and the Read grant covers only the plugin's own files under the plugin cache, in place of any file.
+- Commands: narrower permissions. The git grants are gone (a `git diff *` rule also approved `--output=<file>`, which writes; plain read-only git needs no grant), and the Read grant covers only the plugin's own files under `~/.claude/plugins/cache/gabagool/`, in place of any file.
 - `/gabagool:sit-down`: says what each kind of argument reviews (working tree, path, commit, branch, range), handles untracked files, a repo with no commits and a huge diff, and refuses writing git flags.
 - `/gabagool:say`: says so and stops when there is no earlier reply to retell.
 - README: the second sample is the reply's own first paragraphs, not a rewrite; the install scope names the exact option; the `/output-style` command's behaviour and version floor; a complete settings snippet.
